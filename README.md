@@ -26,4 +26,5 @@ vim ~/.vimrc
 
 sudo add-apt-repository ppa:ubuntu-desktop/ubuntu-make
 sudo apt update 
-sudo apt-get install ubuntu-make 
+sudo apt-get install ubuntu-make
+testing author
