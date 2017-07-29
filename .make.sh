@@ -1,6 +1,6 @@
 #!/bin/bash
 # .make.sh 
-# This script creates symlinks from ~/ to dotfiles dir
+# This script creates symlinks from ~/ to dotfiles dir. Customizing ubuntu for development
 
 dir=~/dotfiles
 olddir=~/dotfiles_old
