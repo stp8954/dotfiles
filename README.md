@@ -1,6 +1,6 @@
 # dotfiles
 
-s://www.youtube.com/watch?v=SXdIGNsz2G0
+https://www.youtube.com/watch?v=SXdIGNsz2G0
 
 sudo apt-get install vim
 sudo apt-get install zsh
@@ -9,7 +9,8 @@ Install oh-my-zsh
 sh -c "$(wget https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)"
 
 vim ~/.zshrc
-# plugins=(git, autoenv, docker, celery, tmux, vi-mode)
+
+plugins=(git, autoenv, docker, celery, tmux, vi-mode)
 
 git clone https://github.com/stp8954/dotfiles.git
 chmod +x .make.sh
