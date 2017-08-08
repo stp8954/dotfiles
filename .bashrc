@@ -122,3 +122,5 @@ export PATH="/usr/local/heroku/bin:$PATH"
 
 # added by Anaconda3 4.3.1 installer
 export PATH="/home/finn/anaconda3/bin:$PATH"
+export LD_LIBRARY_PATH=/usr/local/cuda-8.0/lib64:$LD_LIBRARY_PATH
+export PATH=/usr/local/cuda-8.0/bin:$PATH
