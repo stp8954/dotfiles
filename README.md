@@ -33,3 +33,5 @@ git clone https://github.com/sigurdga/gnome-terminal-colors-solarized.git
 cd fnome-terminal-colors-solarized.git
 chmod +x set_dark.sh
 ./set_dark.sh
+
+https://github.com/bhilburn/powerlevel9k
