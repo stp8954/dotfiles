@@ -35,3 +35,6 @@ chmod +x set_dark.sh
 ./set_dark.sh
 
 https://github.com/bhilburn/powerlevel9k
+
+sudo apt-get install nvidia-modprobe
+
